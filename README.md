@@ -11,7 +11,7 @@ This project was realized during Greta Meteor's internship with the collaboratio
 - Silhouette Animation: Create animated silhouettes with calculated Fourier Transform coefficients.
 
 ## Dependencies
-- ttkbootstrap
+- Ttkbootstrap
 - Pillow
 - Mediapipe
 - Opencv-python
