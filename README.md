@@ -13,9 +13,9 @@ This project was realized during Greta Meteor's internship with the collaboratio
 ## Dependencies
 - ttkbootstrap
 - Pillow
-- mediapipe
-- opencv-python
-- scipy
-- imutils
-- numpy
-- matplotlib
+- Mediapipe
+- Opencv-python
+- Scipy
+- Imutils
+- Numpy
+- Matplotlib
