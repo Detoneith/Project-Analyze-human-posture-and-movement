@@ -1,7 +1,7 @@
 # Project Body Analyzer with stereo camera calibration and Fourier
 
 ## Description
-This project was realized during Greta Meteor's internship with the collaboration of GeorgesSchmidt. This is an application that provides various body analysis functionalities using Fourier transformations. It allows users to perform video capture, depth estimation, image viewing, epi-cycles animation, and silhouette animation from Fourier coefficients.
+This project was realized during Greta Meteor's internship of one month with the collaboration of GeorgesSchmidt. This is an application that provides various body analysis functionalities using Fourier transformations. It allows users to perform video capture, depth estimation, image viewing, epi-cycles animation, and silhouette animation from Fourier coefficients.
 
 ## Features
 - Video Capture: Capture video from two cameras and detect landmarks of human bodies.
